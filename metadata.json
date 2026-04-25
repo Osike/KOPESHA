@@ -1,0 +1,6 @@
+{
+  "name": "Kopesha Credit",
+  "description": "Premium behavioral credit scoring and Chama intelligence dashboard.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["Fintech Dashboard", "AI Credit Scoring"]
+}
